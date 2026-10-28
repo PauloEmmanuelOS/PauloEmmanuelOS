@@ -1,4 +1,4 @@
-# Olá, sou Paulo Emmanuel!
+# Paulo Emmanuel
 
 Sou estudante de Ciência da Computação no IFSULDEMINAS, com previsão de conclusão em 2027, e Técnico em Informática. Busco oportunidades de estágio ou nível júnior em desenvolvimento de software.
 
