@@ -10,8 +10,6 @@ Sou estudante de Ciência da Computação no IFSULDEMINAS, com previsão de conc
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat)
 
-- Lógica de programação
-- Programação orientada a objetos (POO)
 
 ## Formação
 
