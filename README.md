@@ -4,11 +4,14 @@ Sou estudante de Ciência da Computação no IFSULDEMINAS, com previsão de conc
 
 ## Tecnologias e conhecimentos
 
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![SQL básico](https://img.shields.io/badge/SQL-b%C3%A1sico-4479A1?style=flat)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat)
 
 - Lógica de programação
-- Programação orientada a objetos
+- Programação orientada a objetos (POO)
 
 ## Formação
 
